@@ -1,7 +1,7 @@
 {
   "name": "create-via",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "从模板仓库创建新项目：交互式填写项目名，支持 Git LFS，完成后做一个初始提交",
   "author": "WBBB",
   "license": "MIT",
